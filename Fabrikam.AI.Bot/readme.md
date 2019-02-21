@@ -1,5 +1,5 @@
 ﻿
-# Enterprise Bot Template - Deploying your Bot
+# Fabrikam AI Bot - Deployment guidelines
 
 > [!NOTE]
 > This topics applies to v4 version of the SDK. 
